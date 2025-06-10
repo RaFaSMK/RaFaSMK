@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Rafael Souza
+# 👨🏽‍💻 Rafael Souza
 
 **`Desenvolvedor Back-end`**
 
