@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-end`**
 
-Sou Rafael Chaves Souza, tenho 19 anos e estou cursando Engenharia de Software na UNI-FACEF. Meu foco principal está no desenvolvimento Back-end, com forte interesse em arquitetura de sistemas, APIs RESTful, bancos de dados relacionais e não relacionais, automação, web scraping e boas práticas de engenharia de software.
+Sou Rafael Chaves Souza, tenho 19 anos e estou cursando Engenharia de Software na UNI-FACEF. Meu foco principal está no desenvolvimento Back-end em Python, com forte interesse em arquitetura de sistemas, APIs RESTful, bancos de dados relacionais e não relacionais, automação, web scraping e boas práticas de engenharia de software.
 
 Atualmente, busco oportunidades para colaborar em projetos reais e me especializar cada vez mais em boas práticas de back-end escalável e seguro.
 
