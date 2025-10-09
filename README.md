@@ -1,10 +1,10 @@
 # 👨🏽‍💻 Rafael Souza
 
-**`Desenvolvedor Back-end`**
+**`Desenvolvedor Full-stack`**
 
-Sou Rafael Chaves Souza, tenho 19 anos e estou cursando Engenharia de Software na UNI-FACEF. Meu foco principal está no desenvolvimento Back-end em Python, com forte interesse em arquitetura de sistemas, APIs RESTful, bancos de dados relacionais e não relacionais, automação, web scraping e boas práticas de engenharia de software.
+Sou Rafael Chaves Souza, tenho 19 anos e estou cursando Engenharia de Software na UNI-FACEF. Meu foco principal está no desenvolvimento Full-stack, utilizando Frameworks como NextJS e NestJS, com forte interesse em arquitetura de sistemas, APIs RESTful, bancos de dados relacionais e não relacionais e boas práticas de engenharia de software.
 
-Atualmente, busco oportunidades para colaborar em projetos reais e me especializar cada vez mais em boas práticas de back-end escalável e seguro.
+Atualmente, busco oportunidades para colaborar em projetos reais e me especializar cada vez mais em boas práticas e sistemas escaláveleis e seguros.
 
 ---
 
@@ -17,6 +17,15 @@ Atualmente, busco oportunidades para colaborar em projetos reais e me especializ
     width="30px" 
     style="padding-right: 10px;" 
     src="https://github.com/devicons/devicon/blob/v2.17.0/icons/nextjs/nextjs-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="React" 
+    title="React"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/v2.17.0/icons/react/react-original.svg" 
 />
 
 <img 
@@ -39,20 +48,22 @@ Atualmente, busco oportunidades para colaborar em projetos reais e me especializ
 
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
 <img 
     align="left" 
     alt="HTML"
@@ -61,6 +72,7 @@ Atualmente, busco oportunidades para colaborar em projetos reais e me especializ
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
+
 <img 
     align="left" 
     alt="CSS" 
