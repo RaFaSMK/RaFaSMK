@@ -1,10 +1,20 @@
-# 👨🏽‍💻 Rafael Souza
+# 👨🏽‍💻 Rafael Souza  
 
-**`Desenvolvedor Full-stack`**
+**`Desenvolvedor Front-end (React / Next.js) com experiência em Node / NestJS`**  
 
-Sou Rafael Chaves Souza, tenho 19 anos e estou cursando Engenharia de Software na UNI-FACEF. Meu foco principal está no desenvolvimento Full-stack, utilizando Frameworks como NextJS e NestJS, com forte interesse em arquitetura de sistemas, APIs RESTful, bancos de dados relacionais e não relacionais e boas práticas de engenharia de software.
+Olá! Sou **Rafael Chaves Souza**, tenho 19 anos e atualmente curso **Engenharia de Software** na **UNI-FACEF**.  
+Sou apaixonado por desenvolvimento web e meu foco principal é o **Front-end**, criando interfaces modernas, performáticas e escaláveis com **React** e **Next.js**.  
 
-Atualmente, busco oportunidades para colaborar em projetos reais e me especializar cada vez mais em boas práticas e sistemas escaláveleis e seguros.
+Também tenho experiência com **Node.js e NestJS**, o que me permite compreender e integrar o lado **back-end** de forma eficiente — desenvolvendo **APIs RESTful**, trabalhando com **bancos de dados relacionais e não relacionais**, e aplicando **boas práticas de engenharia de software**.
+
+---
+
+### 🧠 Áreas de Interesse
+- Desenvolvimento Front-end com React e Next.js  
+- Arquitetura de sistemas e componentização  
+- Integração com APIs REST e autenticação JWT  
+- Boas práticas e Clean Code  
+- Otimização de performance e UX  
 
 ---
 
@@ -39,29 +49,11 @@ Atualmente, busco oportunidades para colaborar em projetos reais e me especializ
 
 <img 
     align="left" 
-    alt="NestJS" 
-    title="NestJS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://github.com/devicons/devicon/blob/v2.17.0/icons/nestjs/nestjs-original.svg" 
-/>
-
-<img 
-    align="left" 
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
 <img 
@@ -89,16 +81,25 @@ Atualmente, busco oportunidades para colaborar em projetos reais e me especializ
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
 <img 
     align="left" 
-    alt="Java" 
-    title="Java"
+    alt="Postgresql" 
+    title="Postgresql"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+    src="https://github.com/devicons/devicon/blob/v2.17.0/icons/postgresql/postgresql-original.svg" 
 />
 
-<br/>
+<img 
+    align="left" 
+    alt="NestJS" 
+    title="NestJS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/v2.17.0/icons/nestjs/nestjs-original.svg" 
+/>
+
 <br/>
 
 ### 📊 Estatísticas
@@ -120,3 +121,16 @@ Atualmente, busco oportunidades para colaborar em projetos reais e me especializ
   />
 
 </p>
+
+---
+
+### 📫 Contato
+📧 **rafael012chavess@gmail.com**  
+🔗 [**LinkedIn**](https://www.linkedin.com/in/rafael-chaves-souza-a856b524b/)  
+🐙 [**GitHub**](https://github.com/RaFaSMK)
+
+---
+
+### 🌱 Sobre Mim
+Sou curioso, dedicado e gosto de aprender constantemente novas tecnologias.  
+Atualmente busco uma **oportunidade de estágio/júnior** onde eu possa aplicar meus conhecimentos, contribuir com projetos reais e continuar evoluindo como desenvolvedor.  
