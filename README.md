@@ -122,7 +122,7 @@ Também tenho experiência com **Node.js e NestJS**, o que me permite compreende
 
 </p>
 
-<br/>
+<br clear="both"/>
 
 ---
 
