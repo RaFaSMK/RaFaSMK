@@ -135,4 +135,3 @@ Também tenho experiência com **Node.js e NestJS**, o que me permite compreende
 
 ### 🌱 Sobre Mim
 Sou curioso, dedicado e gosto de aprender constantemente novas tecnologias.  
-Atualmente busco uma **oportunidade de estágio/júnior** onde eu possa aplicar meus conhecimentos, contribuir com projetos reais e continuar evoluindo como desenvolvedor.  
