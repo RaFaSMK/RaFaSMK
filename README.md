@@ -1,11 +1,11 @@
 # 👨🏽‍💻 Rafael Souza  
 
-**`Desenvolvedor Fullstack React / Next.js / Node / Express`**  
+**`Desenvolvedor Fullstack React / Next.js / Node.js / Express.js`**  
 
 Olá! Sou **Rafael Chaves Souza**, tenho 20 anos e atualmente curso **Engenharia de Software** na **UNI-FACEF**.  
 Sou apaixonado por desenvolvimento web e IA meu foco principal é o **Front-end**, criando interfaces modernas, performáticas e escaláveis com **React** e **Next.js**.  
 
-Também tenho experiência com **Node.js e NestJS**, o que me permite compreender e integrar o lado **back-end** de forma eficiente — desenvolvendo **APIs RESTful**, trabalhando com **bancos de dados relacionais**, e aplicando **boas práticas de engenharia de software**.
+Também tenho experiência com **Node.js e Express.js**, o que me permite compreender e integrar o lado **back-end** de forma eficiente — desenvolvendo **APIs RESTful**, trabalhando com **bancos de dados relacionais**, e aplicando **boas práticas de engenharia de software**.
 
 ---
 
@@ -102,8 +102,8 @@ Também tenho experiência com **Node.js e NestJS**, o que me permite compreende
 
 <img 
     align="left" 
-    alt="ExpressJS" 
-    title="ExpressJS"
+    alt="Express.js" 
+    title="Express.js"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://github.com/devicons/devicon/blob/v2.17.0/icons/express/express-original-wordmark.svg" 
