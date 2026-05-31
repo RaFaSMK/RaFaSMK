@@ -1,20 +1,20 @@
 # 👨🏽‍💻 Rafael Souza  
 
-**`Desenvolvedor Front-end (React / Next.js) com experiência em Node / NestJS`**  
+**`Desenvolvedor Fullstack React / Next.js / Node / Express`**  
 
-Olá! Sou **Rafael Chaves Souza**, tenho 19 anos e atualmente curso **Engenharia de Software** na **UNI-FACEF**.  
-Sou apaixonado por desenvolvimento web e meu foco principal é o **Front-end**, criando interfaces modernas, performáticas e escaláveis com **React** e **Next.js**.  
+Olá! Sou **Rafael Chaves Souza**, tenho 20 anos e atualmente curso **Engenharia de Software** na **UNI-FACEF**.  
+Sou apaixonado por desenvolvimento web e IA meu foco principal é o **Front-end**, criando interfaces modernas, performáticas e escaláveis com **React** e **Next.js**.  
 
-Também tenho experiência com **Node.js e NestJS**, o que me permite compreender e integrar o lado **back-end** de forma eficiente — desenvolvendo **APIs RESTful**, trabalhando com **bancos de dados relacionais e não relacionais**, e aplicando **boas práticas de engenharia de software**.
+Também tenho experiência com **Node.js e NestJS**, o que me permite compreender e integrar o lado **back-end** de forma eficiente — desenvolvendo **APIs RESTful**, trabalhando com **bancos de dados relacionais**, e aplicando **boas práticas de engenharia de software**.
 
 ---
 
 ### 🧠 Áreas de Interesse
-- Desenvolvimento Front-end com React e Next.js  
-- Arquitetura de sistemas e componentização  
-- Integração com APIs REST e autenticação JWT  
-- Boas práticas e Clean Code  
-- Otimização de performance e UX  
+- Desenvolvimento Fullstack com React / Next.js / Node / Express
+- Arquitetura de sistemas e componentização
+- Integração com APIs REST e autenticação JWT
+- Boas práticas e Clean Code
+- Otimização de performance e UX
 
 ---
 
@@ -93,11 +93,20 @@ Também tenho experiência com **Node.js e NestJS**, o que me permite compreende
 
 <img 
     align="left" 
-    alt="NestJS" 
-    title="NestJS"
+    alt="NodeJS" 
+    title="NodeJS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://github.com/devicons/devicon/blob/v2.17.0/icons/nestjs/nestjs-original.svg" 
+    src="https://github.com/devicons/devicon/blob/v2.17.0/icons/nodejs/nodejs-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="ExpressJS" 
+    title="ExpressJS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/v2.17.0/icons/express/express-original-wordmark.svg" 
 />
 
 <br/>
