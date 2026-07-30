@@ -1,146 +1,92 @@
-# 👨🏽‍💻 Rafael Souza  
+<div align="center">
 
-**`Desenvolvedor Fullstack React / Next.js / Node.js / Express.js`**  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=210&section=header&text=Rafael%20Chaves%20Souza&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Fullstack%20%7C%20JavaScript%20e%20IA%20Generativa&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 
-Olá! Sou **Rafael Chaves Souza**, tenho 20 anos e atualmente curso **Engenharia de Software** na **UNI-FACEF**.  
-Sou apaixonado por desenvolvimento web e IA meu foco principal é o **Front-end**, criando interfaces modernas, performáticas e escaláveis com **React** e **Next.js**.  
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1200&color=4FACFE&center=true&vCenter=true&width=560&lines=Desenvolvedor+Fullstack+%7C+React+%2F+Node.js;Explorando+IA+Generativa+e+pipelines+RAG;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
 
-Também tenho experiência com **Node.js e Express.js**, o que me permite compreender e integrar o lado **back-end** de forma eficiente — desenvolvendo **APIs RESTful**, trabalhando com **bancos de dados relacionais**, e aplicando **boas práticas de engenharia de software**.
+</div>
 
----
+<br>
 
-### 🧠 Áreas de Interesse
-- Desenvolvimento Fullstack com React / Next.js / Node / Express
-- Arquitetura de sistemas e componentização
-- Integração com APIs REST e autenticação JWT
-- Boas práticas e Clean Code
-- Otimização de performance e UX
+## 🧑‍💻 Sobre mim
 
----
+- 🎓 Cursando **Engenharia de Software** na **Uni-FACEF** (6º semestre)
+- 💼 Atualmente **Desenvolvedor Fullstack** na **OTicket Gestão de Entretenimentos**
+- 🌐 Trabalho ponta a ponta: interfaces (React/Next.js), APIs REST (Node.js/Express) e banco de dados
+- 🤖 Interesse genuíno em **IA generativa** — construí um pipeline de **RAG** do zero (LangChain, ChromaDB, embeddings) com apoio de ferramentas de IA no fluxo de desenvolvimento
+- 📚 Gosto de aprender rápido e testar tecnologias novas na prática
+- 📫 Contato: **rafael012chavess@gmail.com**
 
-### 🤖 Linguagens e Tecnologias
+<br>
 
-<img 
-    align="left" 
-    alt="NextJS" 
-    title="NextJS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://github.com/devicons/devicon/blob/v2.17.0/icons/nextjs/nextjs-original.svg" 
-/>
+## 🛠️ Tecnologias & Ferramentas
 
-<img 
-    align="left" 
-    alt="React" 
-    title="React"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://github.com/devicons/devicon/blob/v2.17.0/icons/react/react-original.svg" 
-/>
+**Frontend**
 
-<img 
-    align="left" 
-    alt="TypeScript" 
-    title="TypeScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://github.com/devicons/devicon/blob/v2.17.0/icons/typescript/typescript-original.svg" 
-/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+**Backend**
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,fastapi" />
 
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+**Dados & Infra**
 
-<img 
-    align="left" 
-    alt="Postgresql" 
-    title="Postgresql"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://github.com/devicons/devicon/blob/v2.17.0/icons/postgresql/postgresql-original.svg" 
-/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker,aws,gcp,linux,git,github" />
 
-<img 
-    align="left" 
-    alt="NodeJS" 
-    title="NodeJS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://github.com/devicons/devicon/blob/v2.17.0/icons/nodejs/nodejs-original.svg" 
-/>
+**IA Generativa & Automação**
 
-<img 
-    align="left" 
-    alt="Express.js" 
-    title="Express.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://github.com/devicons/devicon/blob/v2.17.0/icons/express/express-original-wordmark.svg" 
-/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white" />
 
-<br/>
+<br>
 
-### 📊 Estatísticas
+## 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=rafasmk&show_icons=true&theme=midnight-purple&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafasmk&theme=midnight-purple&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+<p align="center">
+  <img height="165em" src="https://github-readme-stats-fast.vercel.app/api?username=RaFaSMK&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RaFaSMK&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<br clear="both"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=RaFaSMK&theme=tokyonight&hide_border=true" />
+</p>
 
----
+<br>
 
-### 📫 Contato
-📧 **rafael012chavess@gmail.com**  
-🔗 [**LinkedIn**](https://www.linkedin.com/in/rafael-chaves-souza-a856b524b/)  
-🐙 [**GitHub**](https://github.com/RaFaSMK)
+## 📌 Projetos em destaque
 
----
+- 🏗️ **[project-products](https://github.com/RaFaSMK/project-products)** — API de microserviços com **NestJS** + MongoDB: Auth Service (JWT/RBAC) e API Service (CRUD de produtos), com observabilidade via Prometheus/Grafana e testes de carga com k6
+- 🔎 **[RAG](https://github.com/RaFaSMK/RAG)** — pipeline de Retrieval-Augmented Generation em Python: ingestão, chunking, embeddings, ChromaDB e LLMs locais via Ollama
+- ♿ **[PI-Equaly](https://github.com/RaFaSMK/PI-Equaly)** — plataforma para conectar Pessoas com Deficiência a vagas de emprego (React/Next.js, Node.js, PostgreSQL, Docker)
+- 📦 **[hustle-tracker](https://github.com/RaFaSMK/hustle-tracker)** — app mobile de gestão de inventário e vendas (React Native + GCP/Firebase)
+- ⚙️ **[n8n-automations](https://github.com/RaFaSMK/n8n-automations)** — workflows de automação de processos com n8n
+- 🧾 **[mini_pedidos](https://github.com/RaFaSMK/mini_pedidos)** — desafio técnico de sistema de pedidos fullstack (desafio de vaga OTicket)
 
-### 🌱 Sobre Mim
-Sou curioso, dedicado e gosto de aprender constantemente novas tecnologias.  
+<br>
+
+## 🌐 Idiomas
+
+<img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png" width="20"/> `Português — Nativo`  ·  <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png" width="20"/> `Inglês — Intermediário`
+
+<br>
+
+## 📫 Contato
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rafael-chaves-souza-a856b524b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rafael012chavess@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/RaFaSMK" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%" />
