@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=210&section=header&text=Rafael%20Chaves%20Souza&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Fullstack%20%7C%20JavaScript%20e%20IA%20Generativa&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=210&section=header&text=Rafael%20Souza&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Fullstack%20%7C%20JavaScript%20e%20IA%20Generativa&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1200&color=4FACFE&center=true&vCenter=true&width=560&lines=Desenvolvedor+Fullstack+%7C+React+%2F+Node.js;Explorando+IA+Generativa+e+pipelines+RAG;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
 
