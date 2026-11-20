@@ -1,92 +1,87 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=210&section=header&text=Rafael%20Souza&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Fullstack%20%7C%20JavaScript%20e%20IA%20Generativa&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1200&color=4FACFE&center=true&vCenter=true&width=560&lines=Desenvolvedor+Fullstack+%7C+React+%2F+Node.js;Explorando+IA+Generativa+e+pipelines+RAG;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
-
-</div>
-
-<br>
-
-## 🧑‍💻 Sobre mim
-
-- 🎓 Cursando **Engenharia de Software** na **Uni-FACEF** (6º semestre)
-- 💼 Atualmente **Desenvolvedor Fullstack** na **OTicket Gestão de Entretenimentos**
-- 🌐 Trabalho ponta a ponta: interfaces (React/Next.js), APIs REST (Node.js/Express) e banco de dados
-- 🤖 Interesse genuíno em **IA generativa** — construí um pipeline de **RAG** do zero (LangChain, ChromaDB, embeddings) com apoio de ferramentas de IA no fluxo de desenvolvimento
-- 📚 Gosto de aprender rápido e testar tecnologias novas na prática
-- 📫 Contato: **rafael012chavess@gmail.com**
-
-<br>
-
-## 🛠️ Tecnologias & Ferramentas
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,fastapi" />
-
-**Dados & Infra**
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker,aws,gcp,linux,git,github" />
-
-**IA Generativa & Automação**
-
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white" />
-
-<br>
-
-## 📊 Estatísticas
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img src="assets/header-dark.svg" alt="Rafael Chaves Souza — Desenvolvimento full stack e backend" width="100%">
+</picture>
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats-fast.vercel.app/api?username=RaFaSMK&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RaFaSMK&layout=compact&theme=tokyonight&hide_border=true" />
+  <a href="https://rafasmk.vercel.app">Portfólio</a> ·
+  <a href="https://www.linkedin.com/in/rafael-chaves-souza-a856b524b/">LinkedIn</a> ·
+  <a href="mailto:rafael012chavess@gmail.com">E-mail</a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=RaFaSMK&theme=tokyonight&hide_border=true" />
-</p>
+## Sobre mim
 
-<br>
+Sou desenvolvedor full stack na **OTicket**, em Franca, SP, e estou concluindo o 6º semestre de **Engenharia de Software no Uni-FACEF**.
 
-## 📌 Projetos em destaque
+Trabalho com **JavaScript/TypeScript, React/Next.js, Node.js/Express e PostgreSQL**. Minhas contribuições na OTicket Play incluem checkout, reservas de estoque, controle de concorrência, integração PIX, recuperação de carrinhos com serviços AWS e testes de regras de negócio.
 
-- 🏗️ **[project-products](https://github.com/RaFaSMK/project-products)** — API de microserviços com **NestJS** + MongoDB: Auth Service (JWT/RBAC) e API Service (CRUD de produtos), com observabilidade via Prometheus/Grafana e testes de carga com k6
-- 🔎 **[RAG](https://github.com/RaFaSMK/RAG)** — pipeline de Retrieval-Augmented Generation em Python: ingestão, chunking, embeddings, ChromaDB e LLMs locais via Ollama
-- ♿ **[PI-Equaly](https://github.com/RaFaSMK/PI-Equaly)** — plataforma para conectar Pessoas com Deficiência a vagas de emprego (React/Next.js, Node.js, PostgreSQL, Docker)
-- 📦 **[hustle-tracker](https://github.com/RaFaSMK/hustle-tracker)** — app mobile de gestão de inventário e vendas (React Native + GCP/Firebase)
-- ⚙️ **[n8n-automations](https://github.com/RaFaSMK/n8n-automations)** — workflows de automação de processos com n8n
-- 🧾 **[mini_pedidos](https://github.com/RaFaSMK/mini_pedidos)** — desafio técnico de sistema de pedidos fullstack (desafio de vaga OTicket)
+Em projetos pessoais e acadêmicos, exploro **Python, FastAPI e IA aplicada**: recuperação de informações, agentes com ferramentas e integração de modelos locais a aplicações.
 
-<br>
+## Experiência em produto
 
-## 🌐 Idiomas
+| Área | Contribuições na OTicket Play |
+| --- | --- |
+| Checkout e dados | Reservas transacionais, integração com pagamentos e controle concorrente de cupons e afiliados. |
+| Processamento assíncrono | Recuperação de carrinhos e agendamento de e-mails com AWS SQS e SES. |
+| Financeiro | Integração Sicoob PIX, comprovantes PDF em S3 e fluxos de reembolso. |
+| Qualidade | Testes determinísticos de regras de competições, análise de logs e investigação de falhas. |
 
-<img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png" width="20"/> `Português — Nativo`  ·  <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png" width="20"/> `Inglês — Intermediário`
+## Projetos selecionados
 
-<br>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/RaFaSMK/IOT">Quadra Inteligente AIoT</a></h3>
+      <p>Projeto acadêmico em grupo: telemetria em tempo real, comandos, alertas e assistente local. Sensores simulados e modelos avaliados em dados sintéticos.</p>
+      <p><strong>FastAPI · Vue/TypeScript · RabbitMQ · MQTT · Docker</strong></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/RaFaSMK/artefact-ai-engineer-challenge">Agente de atendimento</a></h3>
+      <p>Protótipo de desafio técnico com chat, API e CLI. Consulta catálogo, pedidos e políticas de uma loja fictícia por ferramentas tipadas, com fontes e avaliação documentada.</p>
+      <p><strong>Python · FastAPI · LangChain · Ollama · SQLite</strong></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/RaFaSMK/mini_pedidos">Sistema de pedidos</a></h3>
+      <p>Desafio técnico full stack com clientes, produtos, pedidos, documentação de API e testes de integração para clientes.</p>
+      <p><strong>TypeScript · Express · Next.js · Prisma · PostgreSQL</strong></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/RaFaSMK/gallery">Gallery Plus</a></h3>
+      <p>Galeria de fotos e álbuns com API própria e consumo de API externa. Interface com filtros, detalhes e estados de carregamento.</p>
+      <p><strong>React · TypeScript · Fastify · TanStack Query</strong></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/RaFaSMK/RAG">Pipeline RAG</a></h3>
+      <p>Ingestão e divisão de documentos, embeddings, recuperação vetorial e geração com modelo local. CLI e testes com mocks.</p>
+      <p><strong>Python · LangChain · ChromaDB · Ollama · pytest</strong></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/RaFaSMK/project-products">Project Products</a></h3>
+      <p>Dois serviços para autenticação e produtos, com cadastro público de usuários comuns, JWT/RBAC, métricas e testes de regressão da autenticação.</p>
+      <p><strong>NestJS · TypeScript · MongoDB · Docker · Jest</strong></p>
+    </td>
+  </tr>
+</table>
 
-## 📫 Contato
+## Tecnologias e contexto
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rafael-chaves-souza-a856b524b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:rafael012chavess@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/RaFaSMK" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+| Contexto | Tecnologias |
+| --- | --- |
+| Desenvolvimento profissional | JavaScript/TypeScript, React, Next.js, Node.js, Express, PostgreSQL e SQL. |
+| Integrações e qualidade no trabalho | AWS SQS, SES e S3, Jest e Git. |
+| Prática em projetos | NestJS, Python/FastAPI, Docker/Compose, MongoDB, RabbitMQ e MQTT. |
+| IA aplicada em projetos | RAG, LangChain, ChromaDB, Ollama, ferramentas e saídas estruturadas. |
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%" />
+Outros trabalhos: [Equaly, plataforma acadêmica de inclusão](https://github.com/RaFaSMK/PI-Equaly), [automação de sobreaviso em Python](https://github.com/RaFaSMK/Automacao_Sobreaviso), [Hustle Tracker em React Native](https://github.com/RaFaSMK/hustle-tracker) e [estudo estatístico do Titanic](https://github.com/RaFaSMK/Titanic).
+
+## Formação e idiomas
+
+**Engenharia de Software · Uni-FACEF** — conclusão prevista em dezembro de 2027.
+
+Português nativo · Inglês intermediário.
+
+Tenho interesse em oportunidades de **desenvolvimento full stack e backend**, principalmente remotas.

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc">
+<title id="title">Rafael Chaves Souza</title><desc id="desc">Desenvolvimento full stack e backend. TypeScript, Node.js, React e PostgreSQL.</desc>
+<rect width="1200" height="240" rx="18" fill="#edf3fa"/>
+<path d="M1060 0L880 240M1170 0L990 240M1280 0L1100 240" stroke="#167a9c" stroke-opacity=".14" stroke-width="2"/>
+<rect x="52" y="48" width="38" height="5" rx="2" fill="#167a9c"/>
+<text x="52" y="111" fill="#1f3864" font-family="Segoe UI,Arial,sans-serif" font-size="46" font-weight="700">Rafael Chaves Souza</text>
+<text x="52" y="154" fill="#167a9c" font-family="Segoe UI,Arial,sans-serif" font-size="24">Desenvolvimento full stack e backend</text>
+<text x="52" y="195" fill="#44566d" font-family="Segoe UI,Arial,sans-serif" font-size="18">TypeScript · Node.js · React / Next.js · PostgreSQL</text>
+</svg>
