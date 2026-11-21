@@ -29,38 +29,38 @@ Em projetos pessoais e acadêmicos, exploro **Python, FastAPI e IA aplicada**: r
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/RaFaSMK/IOT">Quadra Inteligente AIoT</a></h3>
-      <p>Projeto acadêmico em grupo: telemetria em tempo real, comandos, alertas e assistente local. Sensores simulados e modelos avaliados em dados sintéticos.</p>
-      <p><strong>FastAPI · Vue/TypeScript · RabbitMQ · MQTT · Docker</strong></p>
+      <h3><a href="https://github.com/RaFaSMK/project-products">Project Products</a></h3>
+      <p>Dois serviços para autenticação e produtos, com cadastro público de usuários comuns, JWT/RBAC, métricas e testes de regressão da autenticação.</p>
+      <p><strong>NestJS · TypeScript · MongoDB · Docker · Jest</strong></p>
     </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/RaFaSMK/artefact-ai-engineer-challenge">Agente de atendimento</a></h3>
-      <p>Protótipo de desafio técnico com chat, API e CLI. Consulta catálogo, pedidos e políticas de uma loja fictícia por ferramentas tipadas, com fontes e avaliação documentada.</p>
-      <p><strong>Python · FastAPI · LangChain · Ollama · SQLite</strong></p>
-    </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/RaFaSMK/mini_pedidos">Sistema de pedidos</a></h3>
       <p>Desafio técnico full stack com clientes, produtos, pedidos, documentação de API e testes de integração para clientes.</p>
       <p><strong>TypeScript · Express · Next.js · Prisma · PostgreSQL</strong></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/RaFaSMK/gallery">Gallery Plus</a></h3>
       <p>Galeria de fotos e álbuns com API própria e consumo de API externa. Interface com filtros, detalhes e estados de carregamento.</p>
       <p><strong>React · TypeScript · Fastify · TanStack Query</strong></p>
     </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/RaFaSMK/IOT">Quadra Inteligente AIoT</a></h3>
+      <p>Projeto acadêmico em grupo: telemetria em tempo real, comandos, alertas e assistente local. Sensores simulados e modelos avaliados em dados sintéticos.</p>
+      <p><strong>FastAPI · Vue/TypeScript · RabbitMQ · MQTT · Docker</strong></p>
+    </td>
   </tr>
   <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/RaFaSMK/artefact-ai-engineer-challenge">Agente de atendimento</a></h3>
+      <p>Protótipo de desafio técnico com chat, API e CLI. Consulta catálogo, pedidos e políticas de uma loja fictícia por ferramentas tipadas, com fontes e avaliação documentada.</p>
+      <p><strong>Python · FastAPI · LangChain · Ollama · SQLite</strong></p>
+    </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/RaFaSMK/RAG">Pipeline RAG</a></h3>
       <p>Ingestão e divisão de documentos, embeddings, recuperação vetorial e geração com modelo local. CLI e testes com mocks.</p>
       <p><strong>Python · LangChain · ChromaDB · Ollama · pytest</strong></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/RaFaSMK/project-products">Project Products</a></h3>
-      <p>Dois serviços para autenticação e produtos, com cadastro público de usuários comuns, JWT/RBAC, métricas e testes de regressão da autenticação.</p>
-      <p><strong>NestJS · TypeScript · MongoDB · Docker · Jest</strong></p>
     </td>
   </tr>
 </table>
