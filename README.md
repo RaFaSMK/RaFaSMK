@@ -13,18 +13,16 @@
 
 Sou desenvolvedor full stack na **OTicket**, em Franca, SP, e estou concluindo o 6º semestre de **Engenharia de Software no Uni-FACEF**.
 
-Trabalho com **JavaScript/TypeScript, React/Next.js, Node.js/Express e PostgreSQL**. Minhas contribuições na OTicket Play incluem checkout, reservas de estoque, controle de concorrência, integração PIX, recuperação de carrinhos com serviços AWS e testes de regras de negócio.
+Trabalho com **JavaScript/TypeScript, React/Next.js, Node.js/Express e PostgreSQL**, desenvolvendo e mantendo aplicações web, APIs e integrações. Também contribuo com testes automatizados, análise de logs e correção de problemas.
 
 Em projetos pessoais e acadêmicos, exploro **Python, FastAPI e IA aplicada**: recuperação de informações, agentes com ferramentas e integração de modelos locais a aplicações.
 
-## Experiência em produto
+## Experiência profissional
 
-| Área | Contribuições na OTicket Play |
-| --- | --- |
-| Checkout e dados | Reservas transacionais, integração com pagamentos e controle concorrente de cupons e afiliados. |
-| Processamento assíncrono | Recuperação de carrinhos e agendamento de e-mails com AWS SQS e SES. |
-| Financeiro | Integração Sicoob PIX, comprovantes PDF em S3 e fluxos de reembolso. |
-| Qualidade | Testes determinísticos de regras de competições, análise de logs e investigação de falhas. |
+- Desenvolvimento de interfaces web e APIs REST.
+- Integração entre aplicações e manutenção de funcionalidades administrativas.
+- Testes automatizados, análise de logs e investigação de problemas.
+- Colaboração com a equipe na evolução das aplicações e manutenção do código.
 
 ## Projetos selecionados
 
@@ -72,7 +70,7 @@ Em projetos pessoais e acadêmicos, exploro **Python, FastAPI e IA aplicada**: r
 | Contexto | Tecnologias |
 | --- | --- |
 | Desenvolvimento profissional | JavaScript/TypeScript, React, Next.js, Node.js, Express, PostgreSQL e SQL. |
-| Integrações e qualidade no trabalho | AWS SQS, SES e S3, Jest e Git. |
+| Integrações e qualidade no trabalho | Jest e Git. |
 | Prática em projetos | NestJS, Python/FastAPI, Docker/Compose, MongoDB, RabbitMQ e MQTT. |
 | IA aplicada em projetos | RAG, LangChain, ChromaDB, Ollama, ferramentas e saídas estruturadas. |
 
